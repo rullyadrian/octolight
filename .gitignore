@@ -1,0 +1,6 @@
+# KiCad
+*.*-bak
+fp-info-cache
+
+# DraftSight
+drawing/*.bak
