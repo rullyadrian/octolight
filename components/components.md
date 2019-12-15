@@ -1,0 +1,16 @@
+# Components
+
+| Reference                           | Description                                                                                         | Manufacturer               | Part No          | Remark                        |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------|------------------|-------------------------------|
+| D1, D5                              | LED, Red, SMD, 0805, 2 mA, 1.75 V, 630 nm                                                           | KINGBRIGHT                 | KPTD-2012LVSURCK |                               |
+| D2, D6                              | LED, Yellow, SMD, 0805, 2 mA, 1.85 V, 590 nm                                                        | KINGBRIGHT                 | KPTD-2012LVSYCK  |                               |
+| D3, D7                              | LED, Green, SMD, 0805, 2 mA, 2.65 V, 525 nm                                                         | KINGBRIGHT                 | KPTD-2012LVZGCK  |                               |
+| D4, D8                              | LED, Blue, SMD, 0805, 2 mA, 2.65 V, 465 nm                                                          | KINGBRIGHT                 | KPTD-2012LVQBC-D |                               |
+| R3, R6, R9, R12                     | SMD Chip Resistor, 0805 [2012 Metric], 82 ohm, MCWR Series, 150 V, Thick Film, 125 mW               | MULTICOMP PRO              | MCWR08X82R0FTL   | With 2.60 V, 30 mA LED string |
+| R3, R6, R9, R12                     | SMD Chip Resistor, 0805 [2012 Metric], 150 ohm, MCWR Series, 150 V, Thick Film, 125 mW              | MULTICOMP PRO              | MCWR08X1500FTL   | With 2.60 V, 15 mA LED string |
+| R8, R11, R18, R20                   | SMD Chip Resistor, 0805 [2012 Metric], 1.2 kohm, MCWR Series, 150 V, Thick Film, 125 mW             | MULTICOMP PRO              | MCWR08X1201FTL   |                               |
+| R2, R5, R14, R16                    | SMD Chip Resistor, 0805 [2012 Metric], 1.6 kohm, MCWR Series, 150 V, Thick Film, 125 mW             | MULTICOMP PRO              | MCWR08X1601FTL   |                               |
+| R1, R4, R7, R10, R13, R15, R17, R19 | SMD Chip Resistor, 0805 [2012 Metric], 10 kohm, MCWR Series, 150 V, Thick Film, 125 mW              | MULTICOMP PRO              | MCWR08X1002FTL   |                               |
+| Q1, Q2, Q3, Q4                      | Dual MOSFET, Dual N Channel, 5.5 A, 30 V, 0.031 ohm, 10 V, 1.9 V                                    | ON SEMICONDUCTOR           | FDS6930B         |                               |
+| J1, J2, J3, J4                      | Wire-To-Board Terminal Block, 2.54 mm, 2 Ways, 30 AWG, 16 AWG, 1.4 mm², Screw                       | TE CONNECTIVITY / BUCHANAN | 282834-2         |                               |
+| J5, J6                              | Board-To-Board Connector, Vertical, 2.54 mm, 14 Contacts, Header, MC34 Series, Through Hole, 1 Rows | MULTICOMP                  | MC34735          |                               |
