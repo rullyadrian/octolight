@@ -7,6 +7,7 @@
 #define DELAY 10
 
 int lights[] = {7, 6, 3, 2, 5, 4, 1, 0};
+float scalingFactor[] = {1.0, 1.0, 0.25, 1.0, 1.0, 1.0, 0.25, 1.0};
 int values[] = {0, 0, 0, 0, 0, 0, 0, 0};
 int t = 0;
 
@@ -58,6 +59,6 @@ void writeValues()
 {
   for (int i = 0; i < NUM_LIGHTS; i++)
   {
-    analogWrite(lights[i], values[i]);
+    analogWrite(lights[i], values[i] * scalingFactor[i]);
   }
 }
