@@ -4,3 +4,6 @@ fp-info-cache
 
 # DraftSight
 drawing/*.bak
+
+# IDE
+.vscode
